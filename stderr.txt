@@ -1,0 +1,116 @@
+Warning: unknown package "@embroider/test-support"
+Warning: unknown package "addon-template"
+Warning: unknown package "app-template"
+Warning: unknown package "@embroider/test-fixtures"
+Warning: unknown package "@embroider/test-scenarios"
+Warning: unknown package "ts-app-template"
+Warning: unknown package "addon-template"
+Warning: unknown package "app-template"
+Warning: unknown package "@embroider/test-scenarios"
+Warning: unknown package "ts-app-template"
+Warning: unknown package "@embroider/test-support"
+Warning: unknown package "@embroider/sample-transforms"
+Warning: unknown package "@embroider/test-fixtures"
+Warning: unknown package "v2-addon-template"
+Warning: unknown package "@types/broccoli"
+Warning: unknown package "@embroider/test-scenarios"
+Warning: unknown package "@embroider/test-support"
+Warning: unknown package "@embroider/test-fixtures"
+Warning: unknown package "@embroider/sample-transforms"
+Warning: unknown package "addon-template"
+Warning: unknown package "app-template"
+Warning: unknown package "v2-addon-template"
+Warning: unknown package "@embroider/test-scenarios"
+Warning: unknown package "@embroider/unstable-release"
+Warning: unknown package "@embroider/sample-transforms"
+Warning: unknown package "addon-template"
+Warning: unknown package "app-template"
+Warning: unknown package "ts-app-template"
+Warning: unknown package "@embroider/test-fixtures"
+Warning: unknown package "@embroider/test-support"
+Warning: unknown package "@types/broccoli-file-creator"
+Warning: unknown package "@types/broccoli-merge-trees"
+Warning: unknown package "@types/broccoli"
+Warning: unknown package "@types/console-ui"
+Warning: unknown package "@types/ember-cli"
+Warning: unknown package "@types/fast-sourcemap-concat"
+Warning: unknown package "@types/source-map-url"
+Warning: unknown package "@types/thread-loader"
+Warning: unknown package "v2-addon-template"
+# Unlabeled Changes
+
+* `@embroider/core`
+  * [#1671](https://github.com/embroider-build/embroider/pull/1671) Prepare a release ([@mansona](https://github.com/mansona))
+* `@embroider/compat`
+  * [#1628](https://github.com/embroider-build/embroider/pull/1628) prepare a release ([@mansona](https://github.com/mansona))
+  * [#1490](https://github.com/embroider-build/embroider/pull/1490) preparing patch 3.1.1 ([@ef4](https://github.com/ef4))
+  * [#1334](https://github.com/embroider-build/embroider/pull/1334) Allow `ember-cli-babel` >= v8 for apps and addons ([@bertdeblock](https://github.com/bertdeblock))
+  * [#1321](https://github.com/embroider-build/embroider/pull/1321) Upgrade resolver tests ([@void-mAlex](https://github.com/void-mAlex))
+  * [#1318](https://github.com/embroider-build/embroider/pull/1318) hash current env into the temp workspace dir path ([@void-mAlex](https://github.com/void-mAlex))
+  * [#1308](https://github.com/embroider-build/embroider/pull/1308) Resolver transform fixes ([@ef4](https://github.com/ef4))
+  * [#1285](https://github.com/embroider-build/embroider/pull/1285) handle special case where rootURL is empty string ([@void-mAlex](https://github.com/void-mAlex))
+  * [#1302](https://github.com/embroider-build/embroider/pull/1302) for embroider server running on windows, index.js can be ejected from … ([@void-mAlex](https://github.com/void-mAlex))
+  * [#1299](https://github.com/embroider-build/embroider/pull/1299) Detect babel-plugin-ember-template-complation when other plugins are … ([@ef4](https://github.com/ef4))
+  * [#1256](https://github.com/embroider-build/embroider/pull/1256) Fix an order bug in linkNonCopiedDeps ([@ef4](https://github.com/ef4))
+  * [#1117](https://github.com/embroider-build/embroider/pull/1117) Revert "Fix cacheKeyForTree & OneShot incompatibility" ([@ef4](https://github.com/ef4))
+* `@embroider/addon-dev`, `@embroider/babel-loader-9`, `@embroider/compat`, `@embroider/core`, `@embroider/macros`, `@embroider/router`, `@embroider/shared-internals`, `@embroider/test-setup`, `@embroider/vite`, `@embroider/webpack`
+  * [#1616](https://github.com/embroider-build/embroider/pull/1616) prepare release ([@mansona](https://github.com/mansona))
+* `@embroider/addon-dev`, `@embroider/vite`
+  * [#1568](https://github.com/embroider-build/embroider/pull/1568) plan release ([@mansona](https://github.com/mansona))
+* `@embroider/addon-dev`, `@embroider/compat`, `@embroider/core`, `@embroider/macros`, `@embroider/shared-internals`, `@embroider/vite`, `@embroider/webpack`
+  * [#1566](https://github.com/embroider-build/embroider/pull/1566) preparing a release ([@mansona](https://github.com/mansona))
+* `@embroider/addon-dev`, `@embroider/addon-shim`, `@embroider/compat`, `@embroider/core`, `@embroider/hbs-loader`, `@embroider/macros`, `@embroider/router`, `@embroider/shared-internals`, `@embroider/util`, `@embroider/webpack`
+  * [#1529](https://github.com/embroider-build/embroider/pull/1529) Preparing release ([@ef4](https://github.com/ef4))
+* `@embroider/compat`, `@embroider/core`, `@embroider/macros`, `@embroider/shared-internals`, `@embroider/webpack`
+  * [#1505](https://github.com/embroider-build/embroider/pull/1505) release prep ([@ef4](https://github.com/ef4))
+  * [#1497](https://github.com/embroider-build/embroider/pull/1497) preparing release ([@ef4](https://github.com/ef4))
+* `@embroider/compat`, `@embroider/core`, `@embroider/macros`, `@embroider/router`, `@embroider/shared-internals`, `@embroider/webpack`
+  * [#1484](https://github.com/embroider-build/embroider/pull/1484) preparing release ([@ef4](https://github.com/ef4))
+* `@embroider/compat`, `@embroider/core`, `@embroider/macros`
+  * [#1470](https://github.com/embroider-build/embroider/pull/1470) Prepping release ([@ef4](https://github.com/ef4))
+* `@embroider/addon-dev`, `@embroider/compat`, `@embroider/core`, `@embroider/router`, `@embroider/util`
+  * [#1461](https://github.com/embroider-build/embroider/pull/1461) release prep ([@ef4](https://github.com/ef4))
+* `@embroider/router`, `@embroider/test-scenarios`
+  * [#1335](https://github.com/embroider-build/embroider/pull/1335) workaround upstream node breakage ([@ef4](https://github.com/ef4))
+* `@embroider/test-setup`
+  * [#1328](https://github.com/embroider-build/embroider/pull/1328) test-setup: use caret version modifier for Embroider dependencies ([@simonihmig](https://github.com/simonihmig))
+* `@embroider/webpack`
+  * [#1317](https://github.com/embroider-build/embroider/pull/1317) fix css livereload ([@ef4](https://github.com/ef4))
+* Other
+  * [#1314](https://github.com/embroider-build/embroider/pull/1314) Try to avoid rate limits in CI ([@ef4](https://github.com/ef4))
+  * [#1283](https://github.com/embroider-build/embroider/pull/1283) add some steps to show how to work with tests scenarios ([@void-mAlex](https://github.com/void-mAlex))
+  * [#1250](https://github.com/embroider-build/embroider/pull/1250) upgrading some github actions ([@ef4](https://github.com/ef4))
+* `@embroider/router`, `@embroider/util`, `@embroider/sample-transforms`, `@embroider/test-support`, `addon-template`, `app-template`, `ts-app-template`
+  * [#1313](https://github.com/embroider-build/embroider/pull/1313) Update for upstream type changes ([@ef4](https://github.com/ef4))
+* `ts-app-template`
+  * [#1310](https://github.com/embroider-build/embroider/pull/1310) fix type errors due to upstream changes ([@ef4](https://github.com/ef4))
+* `@embroider/util`
+  * [#1301](https://github.com/embroider-build/embroider/pull/1301) Make `ensureSafeComponent` usable with Glint ([@chriskrycho](https://github.com/chriskrycho))
+* `@embroider/compat`, `@embroider/test-scenarios`
+  * [#1298](https://github.com/embroider-build/embroider/pull/1298) removing old unused test dependencies ([@ef4](https://github.com/ef4))
+  * [#1295](https://github.com/embroider-build/embroider/pull/1295) Update compat to check for both *.hbs & *.hbs.js ([@ef4](https://github.com/ef4))
+* `@embroider/addon-dev`
+  * [#1288](https://github.com/embroider-build/embroider/pull/1288) Drop unused optional peer ([@ef4](https://github.com/ef4))
+  * [#1234](https://github.com/embroider-build/embroider/pull/1234) Add sourcemap: true to rollup output defaults ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+  * [#1233](https://github.com/embroider-build/embroider/pull/1233) Default hoistTransitiveImports to false ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+* `@embroider/core`, `@embroider/test-scenarios`
+  * [#1278](https://github.com/embroider-build/embroider/pull/1278) allow v2 addons to use app tree fallback resolution ([@ef4](https://github.com/ef4))
+* `@embroider/test-scenarios`
+  * [#1281](https://github.com/embroider-build/embroider/pull/1281) enable ember-engine tests for 4.x versions as support has landed ([@void-mAlex](https://github.com/void-mAlex))
+* `@embroider/addon-shim`
+  * [#1282](https://github.com/embroider-build/embroider/pull/1282) Addon-shim was missing dependencies ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+* `@embroider/core`, `@embroider/macros`, `@embroider/util`, `@embroider/test-scenarios`
+  * [#1265](https://github.com/embroider-build/embroider/pull/1265) add inter-package version safety check ([@ef4](https://github.com/ef4))
+* `addon-template`, `app-template`, `ts-app-template`
+  * [#1267](https://github.com/embroider-build/embroider/pull/1267) add @babel/core to app templates ([@ef4](https://github.com/ef4))
+* `@embroider/macros`
+  * [#1245](https://github.com/embroider-build/embroider/pull/1245) Do not use absolute path in vendor files ([@stevcooo](https://github.com/stevcooo))
+* `@embroider/compat`, `@embroider/test-scenarios`, `ts-app-template`
+  * [#1236](https://github.com/embroider-build/embroider/pull/1236) Support TypeScript without ember-cli-typescript ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+* `app-template`, `@embroider/test-scenarios`
+  * [#1238](https://github.com/embroider-build/embroider/pull/1238) Upgrade yarn and use volta.extends for all the things ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+* `@embroider/addon-dev`, `@embroider/test-scenarios`
+  * [#1223](https://github.com/embroider-build/embroider/pull/1223) Stabilize extensions for addon-dev's publicEntrypoints. ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+
+*Cannot plan release until the above changes are labeled*.
